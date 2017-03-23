@@ -1,4 +1,4 @@
-#board{
+.board{
 
 		height: 50%
 		width: 50%;
@@ -62,6 +62,7 @@ footer{
 
 	background-color: #808080;
 	text-align: center;
+	clear: both;
 }
 p{
 
